@@ -5,4 +5,3 @@ Answer 3: git add --help
 Answer 4: git init
           vi README.md
           git status
-
